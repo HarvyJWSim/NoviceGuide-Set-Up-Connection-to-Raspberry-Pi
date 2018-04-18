@@ -3,16 +3,16 @@
 ## Rationale of this guide
 This guide serves as a short walkthrough in setting up Raspberry Pi remote connection (installed with Raspbian OS) using VNC Server and VNC Viewer. 
 Once the setup is done, the Raspberry Pi can be connected remotely to your laptop or mobile installed with VNC viewer.
-
-
-
+<br>
+<br>
+<br>
 
 ## How do I benefit from this guide?
 - Understand how to set up a new Raspberry Pi for remote connection via other devices. 
 - Before starting this guide, make sure the Raspberry Pi is installed with Raspbian OS and your device is installed with [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/). 
 - Make sure you have registered a free account in VNC too. [Register here](https://manage.realvnc.com/en/)
-
-
+<br>
+<br>
 
 ## Walkthrough
 1)	Update the Raspberry Pi to the latest version: 
@@ -49,9 +49,9 @@ Once the setup is done, the Raspberry Pi can be connected remotely to your lapto
 -	Open VNC viewer and enter the **hostname** previously customized in the search bar 
 -	Sign in to the pi (username: pi; **password**: as customised previously)
 -	After sign in, make sure you had rename the Raspberry Pi in the dashboard (address book) to your updated hostname for easier login in the future
-
-
-
+<br>
+<br>
+<br>
 
 #### Copyright disclaimer
 The resources mentioned in this guide are purely for learning purpose. No copyright infringement intended.
