@@ -54,4 +54,4 @@ Once the setup is done, the Raspberry Pi can be connected remotely to your lapto
 <br>
 
 #### Copyright disclaimer
-The resources mentioned in this guide are purely for learning purpose. No copyright infringement intended.
+The resources mentioned in this guide (if any) are purely for learning purpose. No copyright infringement intended.
